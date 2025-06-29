@@ -6,7 +6,7 @@ I'm studying Statistics in Sungkyunkwan University.
 mainly interested in Data Analysis using 
 - Statistics
 -  Machine Learning
--  Deep Learning (especially LLM). 
+-  Deep Learning (especially LLM)
 
 ## Experiences
 - Teaching Assistant for 'Problem Solving and Computational Thinking' (25.03–25.06)
