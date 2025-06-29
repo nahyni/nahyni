@@ -12,7 +12,7 @@ mainly interested in Data Analysis using
 - Teaching Assistant for 'Problem Solving and Computational Thinking' (25.03–25.06)
 - SKKU Statistical Data Analysis Academy 'P-SAT' 33th President, Time Series Analysis Team Leader, Natural Language Processing Team Member (24.02–25.05)
 - Team Leader of the Industry-Academia Collaboration Project with 'TURUCAR' (24.10-25.02)
-- Participant of the 'K-Software Empowerment Bootcamp' 3rd Cohort
+- Participant of the 'K-Software Empowerment Bootcamp' 3rd Cohort (24.03-24.11)
 
 ## Skills
 
